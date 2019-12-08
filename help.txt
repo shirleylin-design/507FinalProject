@@ -1,0 +1,25 @@
+
+Commands available:
+
+SiteName
+	Description: Lists the detail of the site.
+
+
+CountryName
+
+	Description: Lists all the sites in that country
+
+	Options:
+		* Criteria=<criteria>
+		Description: Specifies a criteria of the sites in that country
+		- Cultural / Natural
+
+		* Year
+		Description: Sorted by year. Default sort by name
+
+Criteria
+	Description: Lists all the sites of that criteria
+
+	Options:
+	* Year
+	Description: Sorted by year. Default sort by name
